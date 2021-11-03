@@ -185,5 +185,9 @@ footer{
     .column2,
     .column3{
     margin: 20px;
-    padding:0;
+    padding:0;    
+    }
+    .carrusel img{
+        height: 300px;
+    }
 }
